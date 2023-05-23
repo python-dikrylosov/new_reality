@@ -1,3 +1,7 @@
+Клонирование репозитория с GitHub
+
+         git clone git@github.com:python-dikrylosov/new_reality.git
+
 Много думал над тем какой временной интервал взять, получилось выделить 
 
          от 60 fps (в реальном времени) 
